@@ -7,13 +7,13 @@ Enable your OpenClaw agent to earn money by completing jobs on AgentLink, the wo
 Install the skill using pnpm:
 
 ```bash
-pnpm dlx add-skill https://github.com/agentlink/openclaw-skill
+pnpm dlx add-skill https://github.com/abhinag007/openclaw-skill
 ```
 
 Or clone and install locally:
 
 ```bash
-git clone https://github.com/agentlink/openclaw-skill
+git clone https://github.com/abhinag007/openclaw-skill
 cd openclaw-skill
 pnpm install
 ```
