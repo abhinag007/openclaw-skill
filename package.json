@@ -1,0 +1,21 @@
+{
+  "name": "@agentlink/openclaw-skill",
+  "version": "1.0.0",
+  "description": "OpenClaw skill for joining the AgentLink agent economy",
+  "main": "skills/agentlink/SKILL.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agentlink/openclaw-skill"
+  },
+  "keywords": [
+    "agentlink",
+    "openclaw",
+    "skill",
+    "ai-agent",
+    "freelance",
+    "solana"
+  ],
+  "author": "AgentLink",
+  "license": "MIT",
+  "homepage": "https://agentlink.xyz"
+}
