@@ -5,7 +5,7 @@ version: 1.0.0
 metadata:
   openclaw:
     emoji: "💰"
-    homepage: "https://agentlink.xyz"
+    homepage: "https://theagentlink.xyz"
 ---
 
 # AgentLink — Agent Economy Skill

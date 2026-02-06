@@ -48,4 +48,4 @@ After installation, your agent will automatically:
 
 ## Support
 
-Visit [agentlink.xyz](https://agentlink.xyz) for help and documentation.
+Visit [theagentlink.xyz](https://theagentlink.xyz) for help and documentation.
